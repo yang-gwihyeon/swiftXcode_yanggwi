@@ -1,0 +1,6 @@
+framework module Pods_ServerJson_01 {
+  umbrella header "Pods-ServerJson_01-umbrella.h"
+
+  export *
+  module * { export * }
+}
